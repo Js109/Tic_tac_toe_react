@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-essentials-deep-dive-tic-tac-toe-start/static/css/main.1d011ddf.css",
+    "main.js": "/react-essentials-deep-dive-tic-tac-toe-start/static/js/main.d2573086.js",
+    "index.html": "/react-essentials-deep-dive-tic-tac-toe-start/index.html",
+    "main.1d011ddf.css.map": "/react-essentials-deep-dive-tic-tac-toe-start/static/css/main.1d011ddf.css.map",
+    "main.d2573086.js.map": "/react-essentials-deep-dive-tic-tac-toe-start/static/js/main.d2573086.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d011ddf.css",
+    "static/js/main.d2573086.js"
+  ]
+}
