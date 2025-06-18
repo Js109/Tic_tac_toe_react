@@ -23,9 +23,7 @@ export default function Player(props) {
     editablePlayerName = (
       <input type="text" required value={playerName} onChange={handleChange} />
     );
-    // btnCaption = "Save";
   }
-  //let btnCaption = "Edit";
 
   return (
     <>
